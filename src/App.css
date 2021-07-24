@@ -1,0 +1,11 @@
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.appContainer {
+  background-blend-mode: multiply;
+  background: url('nature_2.jpg');
+  background-size: cover;
+}
